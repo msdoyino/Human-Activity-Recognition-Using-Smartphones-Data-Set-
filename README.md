@@ -1,4 +1,6 @@
-This Github repository contains R script (run_analysis), tidy data () and other necessary files (README.md, Codebook.md) for the Coursera Getting and Cleanng Data Project
+This Github repository contains R script (run_analysis),  README.md (explains Project/analysis) and Codebook.md (explains all variables) for the tidy data (tidyDataset.txt)
+
+This Project is from Coursera Data Science Specialization Course: Getting and Cleanng Data.
 
 Problem Statement:
         One of the most exciting areas in all of data science right now is wearable computing - see for example this article . Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:
